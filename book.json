@@ -1,0 +1,18 @@
+{
+    "author": "梦之彼岸管理团队",
+    "description": "...",
+    "extension": null,
+    "generator": "site",
+    "title": "梦之彼岸服务器教程",
+    "language" : "zh-hans",
+    "variables": {},
+    "plugins": [
+      "edit-link"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/BiliGoldenWater/MengZhiBiAn-Server-Tutorial/edit/master",
+            "label": "编辑此页面"
+        }
+    }
+}
