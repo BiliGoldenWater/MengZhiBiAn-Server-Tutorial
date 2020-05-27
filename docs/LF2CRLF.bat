@@ -1,1 +1,1 @@
-for /R %G in (*.css *.js *.html *.json *.gitattributes *.md *uuid*) do unix2dos "%G"
+for /R %G in (*.css *.js *.html *.json *.gitattributes *.md) do unix2dos "%G"
