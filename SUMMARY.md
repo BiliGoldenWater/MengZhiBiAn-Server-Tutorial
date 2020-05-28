@@ -14,8 +14,8 @@
 ## 科技线
 
 - [概要](tech\Summary.md) 
-- [发展线路](tech/Machine.md)
-- [产能和储能](tech/Energy.md)
+- [发展线路](tech\Machine.md)
+- [产能和储能](tech\Energy.md)
 
 ## 魔法线
 
@@ -25,4 +25,4 @@
 ## 物流和自动化
 
 - [概要](Automation.md)
-- [论集成动力](etc\IntegratedDynamics\ID1.md) 
+- [集成动力 (上)](etc\IntegratedDynamics\ID1.md)
