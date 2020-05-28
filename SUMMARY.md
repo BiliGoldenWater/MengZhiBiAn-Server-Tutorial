@@ -25,3 +25,4 @@
 ## 物流和自动化
 
 - [概要](Automation.md)
+- [论集成动力](etc\IntegratedDynamics\ID1.md) 
